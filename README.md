@@ -32,6 +32,7 @@ Display the test accuracy, confusion matrix, and classification report.
 ### Name: NITHIYANANDAN N
 
 ### Register Number:212222230099
+```
 
 import torch
 import torch.nn as nn
@@ -147,6 +148,7 @@ print("\nName:Nithiyanandan N ")
 print("Register No: 212222230099\n")
 print(f'Predicted class for sample input: {predicted_class_label}')
 print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
+```
 
 ### Dataset Information
 Include screenshot of the dataset.
